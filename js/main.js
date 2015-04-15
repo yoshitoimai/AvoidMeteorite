@@ -1,0 +1,7 @@
+function preroadImage() {
+	
+};
+function gameStart() {
+	
+};
+
