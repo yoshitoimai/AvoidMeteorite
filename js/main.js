@@ -14,5 +14,8 @@ function gameStart() {
 	
 	var player = new ActionPlayer('shooting_player.png', 36, 42);
 	core.rootScene.addChild(player);
+	
+	player.x = 284;
+	player.y = 438;
 };
 
