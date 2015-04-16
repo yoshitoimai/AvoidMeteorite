@@ -11,5 +11,8 @@ function preroadImage() {
 function gameStart() {
 	
 	core.rootScene.backgroundColor = "blue";
+	
+	var player = new ActionPlayer('shooting_player.png', 36, 42);
+	core.rootScene.addChild(player);
 };
 
