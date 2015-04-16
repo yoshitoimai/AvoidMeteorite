@@ -10,5 +10,6 @@ function preroadImage() {
 };
 function gameStart() {
 	
+	core.rootScene.backgroundColor = "blue";
 };
 
